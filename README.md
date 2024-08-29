@@ -6,8 +6,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/devcallado/devcallado/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <h2 align="left">I code with</h2>
