@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a Computer Science Student, that's always trying to improve and getting over myself more, always learning new knowledge.<br><br>In my free times I try read a book or watch movies, sometimes alone but I'd like do it with a friend, go out and breath the air, exercising and cycling are part of my daily life, of corse I'll try make time to practice the things I learned.<br><br>Ok, basicly that's me. Welcome to my  repository, hope you like my programs. :)</p>
+<p align="left">I'm a Computer Science Student, that's always trying to improve and getting over myself more, always learning new knowledge.<br><br>In my free times I try read a book or watch movies, sometimes alone but I'd like do it with a friend, go out and breath the air, exercising and cycling are part of my daily life, of corse I'll try make time to practice the things I learned.<br><br>Ok, basiclly that's me. Welcome to my repository, hope you like my programs. :)</p>
 
 ###
 
